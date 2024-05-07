@@ -12,7 +12,7 @@ function App() {
           <Dicionary defaultKeyword="aesthetic"/>
         </main>
         <footer className="mt-5 footer">
-          <p className="m-0 credit text-red-900">Coded by <a href="https://github.com/abrshewube" target="_blank"> Abrham Wube</a>, 
+          <p className="m-0 credit text-red-900">Coded by <a href="https://github.com/jankoabel" target="_blank"> Abel Janko.</a>, 
           <a href="https://github.com/abrshewube/English_Dictionary" target="_blank">Open sourced on Github.</a> 
           </p>
         </footer>
